@@ -1,0 +1,578 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1067.89",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 28 hours 50 minutes",
+        "airline": "WOW air",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:40am",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "10:45am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:30am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1067.89",
+        "departure": ", Paris",
+        "arrival": ", New York",
+        "flight duration": "0 days 10 hours 50 minutes",
+        "airline": "WOW air",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "6:35pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "8:05pm"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "9:10pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "11:25pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1301.96",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "0 days 10 hours 45 minutes",
+        "airline": "WOW air",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:40am",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "10:45am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:25pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1464.06",
+        "departure": ", Newark",
+        "arrival": ", Paris",
+        "flight duration": "1 days 28 hours 50 minutes",
+        "airline": "WOW air",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "12:40am",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "10:45am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:30am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1464.06",
+        "departure": ", Paris",
+        "arrival": ", Newark",
+        "flight duration": "1 days 28 hours 55 minutes",
+        "airline": "WOW air",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "6:30pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "8:00pm"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "3:10pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "5:25pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1536.11",
+        "departure": ", Newark",
+        "arrival": ", Paris",
+        "flight duration": "0 days 10 hours 45 minutes",
+        "airline": "WOW air",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "12:40am",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "10:45am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:25pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1536.11",
+        "departure": ", Newark",
+        "arrival": ", Paris",
+        "flight duration": "1 days 10 hours 35 minutes",
+        "airline": "WOW air",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "6:55pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "4:55am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:30am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1897.82",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 7 hours 5 minutes",
+        "airline": "XL Airways",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "1:00pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1897.82",
+        "departure": ", Paris",
+        "arrival": ", New York",
+        "flight duration": "0 days 8 hours 20 minutes",
+        "airline": "XL Airways",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "9:45pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1940.42",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 7 hours 0 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:05am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2124.88",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 21 hours 55 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:05am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "7:43am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "10:00am",
+                "arrival_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "arrival_time": "1:05pm"
+            },
+            {
+                "departure_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2187.30",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "2 days 44 hours 30 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:08am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "arrival_time": "12:50am"
+            },
+            {
+                "departure_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "73W"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2187.30",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "2 days 45 hours 55 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:05am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "7:43am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "arrival_time": "12:50am"
+            },
+            {
+                "departure_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2208.16",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "2 days 33 hours 25 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:35pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "8:20pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "arrival_time": "12:50am"
+            },
+            {
+                "departure_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "73W"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2244.88",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "2 days 42 hours 20 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-600 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "9:40am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "11:18am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "arrival_time": "12:50am"
+            },
+            {
+                "departure_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "736"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2278.76",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 21 hours 55 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:05am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "7:43am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "5:15pm",
+                "arrival_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "arrival_time": "8:20pm"
+            },
+            {
+                "departure_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2278.76",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 20 hours 30 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:08am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "5:15pm",
+                "arrival_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "arrival_time": "8:20pm"
+            },
+            {
+                "departure_airport": "Halifax, NS, Canada (YHZ-Stanfield Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "73W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2315.69",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "0 days 15 hours 25 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:05am",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "5:20pm"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "7:35pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:30pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2315.69",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 14 hours 10 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "6:25am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "7:40am",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "10:35am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2315.69",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 16 hours 40 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "6:25am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "10:10am",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "1:05pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2315.69",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 20 hours 35 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "6:25am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "2:05pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:00pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2315.69",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 18 hours 15 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "6:25am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "11:45am",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "2:40pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2315.69",
+        "departure": ", New York",
+        "arrival": ", Paris",
+        "flight duration": "1 days 15 hours 50 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:10pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "2:05pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:00pm"
+            }
+        ],
+        "plane code": "77W"
+    }
+]

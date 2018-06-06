@@ -1,0 +1,638 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "2769.27",
+        "departure": ", Newark",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 17 hours 10 minutes",
+        "airline": "",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "8:50am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "2:35pm",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "4:15pm"
+            }
+        ],
+        "plane code": "777"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2769.27",
+        "departure": ", Newark",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 18 hours 35 minutes",
+        "airline": "",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "8:50am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "5:40pm"
+            }
+        ],
+        "plane code": "777"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2769.27",
+        "departure": ", Iguassu Falls",
+        "arrival": ", Newark",
+        "flight duration": "1 days 14 hours 30 minutes",
+        "airline": "",
+        "plane": "Boeing 737-700",
+        "timings": [
+            {
+                "departure_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "departure_time": "6:10pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "7:50pm"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "10:35pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "7:40am"
+            }
+        ],
+        "plane code": "73G"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2769.27",
+        "departure": ", Newark",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 13 hours 10 minutes",
+        "airline": "",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "8:50am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "10:30am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "12:15pm"
+            }
+        ],
+        "plane code": "777"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2769.27",
+        "departure": ", Newark",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 18 hours 10 minutes",
+        "airline": "",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "8:50am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "3:30pm",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "5:15pm"
+            }
+        ],
+        "plane code": "777"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "3072.27",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "2 days 26 hours 25 minutes",
+        "airline": "American Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "9:10am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "12:05am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "1:50am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "3072.27",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "2 days 34 hours 55 minutes",
+        "airline": "American Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "9:10am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:20am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "3072.27",
+        "departure": ", Iguassu Falls",
+        "arrival": ", New York",
+        "flight duration": "1 days 13 hours 10 minutes",
+        "airline": "",
+        "plane": "Boeing 737-700",
+        "timings": [
+            {
+                "departure_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "departure_time": "6:10pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "7:50pm"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "6:20am"
+            }
+        ],
+        "plane code": "73G"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 25 hours 35 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:42am"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 22 hours 5 minutes",
+        "airline": "American Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "11:00am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:23pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 19 hours 45 minutes",
+        "airline": "American Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:41pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 27 hours 6 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "5:59am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "9:05am"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 26 hours 10 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:55am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:05am"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "2 days 30 hours 55 minutes",
+        "airline": "American Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "5:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "9:14pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "8:10am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "12:05am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "1:50am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 17 hours 50 minutes",
+        "airline": "American Airlines",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:15pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "6:38pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 20 hours 50 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "12:15pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "3:38pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3085.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 24 hours 50 minutes",
+        "airline": "American Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:15am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:35am"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "3120.43",
+        "departure": ", Iguassu Falls",
+        "arrival": ", New York",
+        "flight duration": "1 days 12 hours 55 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-700",
+        "timings": [
+            {
+                "departure_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "departure_time": "6:10pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "7:50pm"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "9:15pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "6:05am"
+            }
+        ],
+        "plane code": "73G"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3120.43",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 22 hours 45 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "10:19pm"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "11:22pm",
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)",
+                "arrival_time": "10:00am"
+            },
+            {
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "7:10pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3340.77",
+        "departure": ", Newark",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 19 hours 45 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:27pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3340.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 19 hours 50 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 757",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:25pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "757"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3340.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 22 hours 0 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:05am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:16pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "3340.77",
+        "departure": ", New York",
+        "arrival": ", Iguassu Falls",
+        "flight duration": "1 days 17 hours 35 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "3:30pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "6:54pm"
+            },
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "763"
+    }
+]

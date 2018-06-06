@@ -1,0 +1,602 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 18 hours 0 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "7:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "5:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 16 hours 0 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "7:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "3:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "4:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 15 hours 55 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:35pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "6:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "2:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "3:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 15 hours 0 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "7:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "2:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "3:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 17 hours 55 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:35pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "6:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "4:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "5:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 10 hours 55 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:35pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "6:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "9:34am",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "10:30am"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1994.56",
+        "departure": ", Antwerp",
+        "arrival": ", New York",
+        "flight duration": "0 days 18 hours 10 minutes",
+        "airline": "9b /thalys For Accesrail",
+        "plane": "NOTE: THIS IS TRAIN SERVICE",
+        "timings": [
+            {
+                "departure_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "9:24am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "2:40pm",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "3:00pm"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "5:30pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "8:40pm"
+            }
+        ],
+        "plane code": "TRN"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 17 hours 0 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "7:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "4:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "5:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 16 hours 55 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:35pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "6:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "3:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "4:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1994.56",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 10 hours 0 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "7:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "9:34am",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "10:30am"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 14 hours 45 minutes",
+        "airline": "",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "8:10am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "9:30am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "10:55am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "2:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "3:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 13 hours 5 minutes",
+        "airline": "",
+        "plane": "772 - BOEING 777/200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "12:55pm"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "2:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "3:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "5:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "772"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 14 hours 35 minutes",
+        "airline": "",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "2:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "3:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "5:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 14 hours 35 minutes",
+        "airline": "",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "12:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "1:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "5:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 12 hours 35 minutes",
+        "airline": "",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "12:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "1:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "3:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "4:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 14 hours 45 minutes",
+        "airline": "",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "8:10am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "11:45am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "1:00pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "2:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "3:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 13 hours 35 minutes",
+        "airline": "",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "12:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "1:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "4:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "5:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2076.91",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 14 hours 45 minutes",
+        "airline": "",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "8:10am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "11:35am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "2:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "3:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2076.91",
+        "departure": ", Antwerp",
+        "arrival": ", New York",
+        "flight duration": "0 days 10 hours 36 minutes",
+        "airline": "KLM",
+        "plane": "NOTE: THIS IS TRAIN SERVICE",
+        "timings": [
+            {
+                "departure_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "9:24am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "10:55am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "1:06pm"
+            }
+        ],
+        "plane code": "TRN"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2122.11",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 13 hours 35 minutes",
+        "airline": "Air France",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "12:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "1:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "4:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "5:30pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2122.11",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 13 hours 5 minutes",
+        "airline": "Air France",
+        "plane": "772 - BOEING 777/200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "12:55pm"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "2:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "3:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "5:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "772"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2122.11",
+        "departure": ", New York",
+        "arrival": ", Antwerp",
+        "flight duration": "1 days 12 hours 35 minutes",
+        "airline": "Air France",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:55pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "12:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "1:50pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "3:34pm",
+                "arrival_airport": "Antwerp, Belgium (ZWE-Antwerp Central Train Station)",
+                "arrival_time": "4:30pm"
+            }
+        ],
+        "plane code": "388"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1232.97",
+        "departure": ", Essaouira",
+        "arrival": ", New York",
+        "flight duration": "1 days 14 hours 50 minutes",
+        "airline": "Royal Air Maroc",
+        "plane": "ATR 72",
+        "timings": [
+            {
+                "departure_airport": "Essaouira, Morocco (ESU-Mogador)",
+                "departure_time": "3:40pm",
+                "arrival_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "arrival_time": "4:50pm"
+            },
+            {
+                "departure_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "departure_time": "10:40pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "1:30am"
+            }
+        ],
+        "plane code": "AT7"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1232.97",
+        "departure": ", New York",
+        "arrival": ", Essaouira",
+        "flight duration": "1 days 11 hours 40 minutes",
+        "airline": "Royal Air Maroc",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "arrival_time": "7:20pm"
+            },
+            {
+                "departure_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Essaouira, Morocco (ESU-Mogador)",
+                "arrival_time": "12:10am"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1744.29",
+        "departure": ", Essaouira",
+        "arrival": ", New York",
+        "flight duration": "1 days 31 hours 40 minutes",
+        "airline": "Royal Air Maroc",
+        "plane": "ATR 72",
+        "timings": [
+            {
+                "departure_airport": "Essaouira, Morocco (ESU-Mogador)",
+                "departure_time": "3:40pm",
+                "arrival_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "arrival_time": "4:50pm"
+            },
+            {
+                "departure_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "departure_time": "3:30pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "6:20pm"
+            }
+        ],
+        "plane code": "AT7"
+    }
+]

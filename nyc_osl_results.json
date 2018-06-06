@@ -1,0 +1,584 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1165.87",
+        "departure": ", Oslo",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 0 minutes",
+        "airline": "LOT-Polish Airlines",
+        "plane": "Boeing 737-400",
+        "timings": [
+            {
+                "departure_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "departure_time": "7:40pm",
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "arrival_time": "9:40pm"
+            },
+            {
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "departure_time": "12:25pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "734"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1165.87",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 17 hours 15 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:00pm",
+                "arrival_airport": "London, England, UK (LGW-Gatwick)",
+                "arrival_time": "11:00am"
+            },
+            {
+                "departure_airport": "London, England, UK (LGW-Gatwick)",
+                "departure_time": "7:10pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "10:15pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1165.87",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 10 hours 15 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:00pm",
+                "arrival_airport": "London, England, UK (LGW-Gatwick)",
+                "arrival_time": "11:00am"
+            },
+            {
+                "departure_airport": "London, England, UK (LGW-Gatwick)",
+                "departure_time": "12:10pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "3:15pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1179.10",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 13 hours 5 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:00pm",
+                "arrival_airport": "London, England, UK (LGW-Gatwick)",
+                "arrival_time": "11:00am"
+            },
+            {
+                "departure_airport": "London, England, UK (LGW-Gatwick)",
+                "departure_time": "3:00pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "6:05pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1248.42",
+        "departure": ", Oslo",
+        "arrival": ", New York",
+        "flight duration": "1 days 25 hours 55 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "departure_time": "9:25pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "12:50am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "5:20pm"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1249.71",
+        "departure": ", Newark",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 18 hours 40 minutes",
+        "airline": "TAP Portugal",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "arrival_time": "5:35am"
+            },
+            {
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "departure_time": "1:25pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "6:25pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1346.35",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 12 hours 0 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:30pm",
+                "arrival_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "arrival_time": "1:10pm"
+            },
+            {
+                "departure_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "departure_time": "4:30pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "5:30pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1346.35",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 15 hours 0 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:30pm",
+                "arrival_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "arrival_time": "1:10pm"
+            },
+            {
+                "departure_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "departure_time": "7:30pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "8:30pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1365.51",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "0 days 13 hours 30 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:05am",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "5:20pm"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "6:55pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "8:35pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1385.91",
+        "departure": ", Newark",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 7 hours 25 minutes",
+        "airline": "SAS",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "6:55pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "8:20am"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1385.91",
+        "departure": ", Oslo",
+        "arrival": ", Newark",
+        "flight duration": "0 days 14 hours 50 minutes",
+        "airline": "SAS",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "departure_time": "6:05am",
+                "arrival_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "arrival_time": "7:10am"
+            },
+            {
+                "departure_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "departure_time": "12:25pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "2:55pm"
+            }
+        ],
+        "plane code": "32A"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1524.16",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 18 hours 55 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:10pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "6:25pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "8:05pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1524.16",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 23 hours 40 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "6:25am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "6:25pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "8:05pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1543.61",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "2 days 33 hours 25 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:05pm",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "11:55am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "7:40am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "10:30am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1552.71",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 13 hours 0 minutes",
+        "airline": "TAP Portugal",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:25pm",
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "arrival_time": "11:15am"
+            },
+            {
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "departure_time": "1:25pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "6:25pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1571.12",
+        "departure": ", Newark",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 14 hours 10 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "11:00pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "12:15pm"
+            },
+            {
+                "departure_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "departure_time": "3:45pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "7:10pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1578.53",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 15 hours 5 minutes",
+        "airline": "",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "11:45am"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "2:40pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "4:10pm"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "4:50pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "6:35pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1578.53",
+        "departure": ", Sandefjord",
+        "arrival": ", New York",
+        "flight duration": "0 days 15 hours 26 minutes",
+        "airline": "KLM Cityhopper",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Sandefjord, Norway (TRF-Torp)",
+                "departure_time": "6:20am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "7:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "9:20am",
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)",
+                "arrival_time": "11:33am"
+            },
+            {
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)",
+                "departure_time": "1:59pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "3:46pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1661.81",
+        "departure": ", Newark",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 10 hours 35 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:25pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "1:00pm"
+            }
+        ],
+        "plane code": "75T"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1661.81",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 10 hours 40 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "1:00pm"
+            }
+        ],
+        "plane code": "75W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1661.81",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 9 hours 35 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:50pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "7:50am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "12:25pm"
+            }
+        ],
+        "plane code": "75W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1661.81",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 10 hours 5 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "7:50am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "12:25pm"
+            }
+        ],
+        "plane code": "75W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1661.81",
+        "departure": ", New York",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 10 hours 10 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:50pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "1:00pm"
+            }
+        ],
+        "plane code": "75W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1661.81",
+        "departure": ", Newark",
+        "arrival": ", Oslo",
+        "flight duration": "1 days 10 hours 0 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:25pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "7:50am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "12:25pm"
+            }
+        ],
+        "plane code": "75T"
+    }
+]
