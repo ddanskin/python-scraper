@@ -1,0 +1,446 @@
+[
+    {
+        "stops": "Non-stop",
+        "ticket price": "315.80",
+        "departure": ", San Juan",
+        "arrival": ", New York",
+        "flight duration": "0 days 4 hours 1 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "departure_time": "1:03pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "5:04pm"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "315.80",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 3 hours 51 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:59pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "6:50pm"
+            }
+        ],
+        "plane code": "752"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "316.81",
+        "departure": ", San Juan",
+        "arrival": ", New York",
+        "flight duration": "0 days 8 hours 29 minutes",
+        "airline": "Spirit Airlines",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "departure_time": "11:00am",
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "arrival_time": "1:39pm"
+            },
+            {
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "departure_time": "4:28pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "7:29pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "336.76",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 6 hours 43 minutes",
+        "airline": "Spirit Airlines",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "arrival_time": "9:27am"
+            },
+            {
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "departure_time": "10:35am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "1:13pm"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "336.76",
+        "departure": ", Newark",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 7 hours 13 minutes",
+        "airline": "Spirit Airlines",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "arrival_time": "8:52am"
+            },
+            {
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "departure_time": "10:35am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "1:13pm"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "342.34",
+        "departure": ", Newark",
+        "arrival": ", San Juan",
+        "flight duration": "1 days 13 hours 24 minutes",
+        "airline": "Spirit Airlines",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:45pm",
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "arrival_time": "11:44pm"
+            },
+            {
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "departure_time": "7:35am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "10:09am"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "367.31",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 4 hours 1 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:42pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "6:43pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "367.31",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "1 days 3 hours 49 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:59pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "3:48am"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "378.42",
+        "departure": ", Newark",
+        "arrival": ", San Juan",
+        "flight duration": "1 days 3 hours 55 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:25pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "12:20am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "378.42",
+        "departure": ", Newark",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 3 hours 50 minutes",
+        "airline": "United",
+        "plane": "Boeing 767",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "12:00pm"
+            }
+        ],
+        "plane code": "764"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "385.49",
+        "departure": ", Newark",
+        "arrival": ", San Juan",
+        "flight duration": "1 days 3 hours 58 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "9:00pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "12:58am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "395.80",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 4 hours 2 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:05am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "12:07pm"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "395.80",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 4 hours 21 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:49pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "11:10pm"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "397.18",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 7 hours 55 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "arrival_time": "12:59pm"
+            },
+            {
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "departure_time": "3:03pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "5:40pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "397.61",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 3 hours 59 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:59pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "4:58pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "397.61",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 3 hours 57 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:00am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "1:57pm"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "397.61",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 3 hours 47 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:00am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "8:47am"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "397.61",
+        "departure": ", Newark",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 3 hours 50 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:00am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "8:50am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "397.61",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "1 days 4 hours 6 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "1:36am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "422.54",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 6 hours 50 minutes",
+        "airline": "JetBlue Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:40am",
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "arrival_time": "8:37am"
+            },
+            {
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)",
+                "departure_time": "9:53am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "12:30pm"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "424.85",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 7 hours 7 minutes",
+        "airline": "American Airlines",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "10:41am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "11:50am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "3:42pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "424.85",
+        "departure": ", New York",
+        "arrival": ", San Juan",
+        "flight duration": "0 days 7 hours 33 minutes",
+        "airline": "American Airlines",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:15am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "8:13am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "9:55am",
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)",
+                "arrival_time": "1:48pm"
+            }
+        ],
+        "plane code": "321"
+    }
+]

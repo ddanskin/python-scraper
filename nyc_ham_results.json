@@ -1,0 +1,644 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1010.08",
+        "departure": ", Hamburg",
+        "arrival": ", Newark",
+        "flight duration": "0 days 11 hours 5 minutes",
+        "airline": "Aer Lingus",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Hamburg, Germany (HAM)",
+                "departure_time": "10:30am",
+                "arrival_airport": "Dublin, Ireland (DUB)",
+                "arrival_time": "11:35am"
+            },
+            {
+                "departure_airport": "Dublin, Ireland (DUB)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1010.08",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 10 hours 30 minutes",
+        "airline": "Aer Lingus",
+        "plane": "Airbus A330",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:20pm",
+                "arrival_airport": "Dublin, Ireland (DUB)",
+                "arrival_time": "4:55am"
+            },
+            {
+                "departure_airport": "Dublin, Ireland (DUB)",
+                "departure_time": "6:50am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "9:50am"
+            }
+        ],
+        "plane code": "330"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1056.91",
+        "departure": ", Hamburg",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 35 minutes",
+        "airline": "LOT-Polish Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Hamburg, Germany (HAM)",
+                "departure_time": "7:05pm",
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "arrival_time": "8:30pm"
+            },
+            {
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "departure_time": "12:25pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1056.91",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 14 hours 30 minutes",
+        "airline": "LOT-Polish Airlines",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:00pm",
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "arrival_time": "12:30pm"
+            },
+            {
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1056.91",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 17 hours 35 minutes",
+        "airline": "LOT-Polish Airlines",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:00pm",
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "arrival_time": "12:30pm"
+            },
+            {
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)",
+                "departure_time": "8:05pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "9:35pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1068.08",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 10 hours 35 minutes",
+        "airline": "Aer Lingus",
+        "plane": "Airbus A330",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:15pm",
+                "arrival_airport": "Dublin, Ireland (DUB)",
+                "arrival_time": "4:55am"
+            },
+            {
+                "departure_airport": "Dublin, Ireland (DUB)",
+                "departure_time": "6:50am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "9:50am"
+            }
+        ],
+        "plane code": "330"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1073.91",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 15 hours 8 minutes",
+        "airline": "",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "3:27pm",
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)",
+                "arrival_time": "4:49pm"
+            },
+            {
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)",
+                "departure_time": "6:40pm",
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "arrival_time": "6:05am"
+            },
+            {
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "departure_time": "8:20am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "12:35pm"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1073.91",
+        "departure": ", Hamburg",
+        "arrival": ", New York",
+        "flight duration": "0 days 15 hours 30 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Hamburg, Germany (HAM)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "5:15pm"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "7:50pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "11:05pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1073.98",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 12 hours 25 minutes",
+        "airline": "Eurowings",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:30pm",
+                "arrival_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)",
+                "arrival_time": "11:55am"
+            },
+            {
+                "departure_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "4:55pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1075.81",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 16 hours 10 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "6:25am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "10:40am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "12:35pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1075.81",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 16 hours 50 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:10pm",
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)",
+                "departure_time": "4:05pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "6:00pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1093.01",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "0 days 15 hours 10 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:10am",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "4:45pm"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "7:05pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "9:20pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1093.01",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 15 hours 15 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:30pm",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "9:45am"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1093.01",
+        "departure": ", Hamburg",
+        "arrival": ", New York",
+        "flight duration": "1 days 33 hours 30 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Hamburg, Germany (HAM)",
+                "departure_time": "7:20am",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "11:30am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "6:45am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "10:50am"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "592.71",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 10 hours 40 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:25pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "7:50am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "1:05pm"
+            }
+        ],
+        "plane code": "75T"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "592.71",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 10 hours 45 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "7:50am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "1:05pm"
+            }
+        ],
+        "plane code": "75W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "592.71",
+        "departure": ", Hamburg",
+        "arrival": ", New York",
+        "flight duration": "0 days 10 hours 55 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "Hamburg, Germany (HAM)",
+                "departure_time": "2:05pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "3:15pm"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "7:00pm"
+            }
+        ],
+        "plane code": "75W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "592.71",
+        "departure": ", New York",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 10 hours 15 minutes",
+        "airline": "Icelandair",
+        "plane": "Boeing 757-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:50pm",
+                "arrival_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Reykjavik, Iceland (KEF-Keflavik Intl.)",
+                "departure_time": "7:50am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "1:05pm"
+            }
+        ],
+        "plane code": "75T"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "889.91",
+        "departure": ", Hamburg",
+        "arrival": ", Newark",
+        "flight duration": "0 days 12 hours 40 minutes",
+        "airline": "SAS",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "Hamburg, Germany (HAM)",
+                "departure_time": "6:35am",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "7:25am"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "9:10am",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "10:20am"
+            },
+            {
+                "departure_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "departure_time": "11:10am",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "1:15pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "889.91",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 10 hours 40 minutes",
+        "airline": "SAS",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:20pm",
+                "arrival_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "arrival_time": "7:15am"
+            },
+            {
+                "departure_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "departure_time": "8:25am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "10:00am"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "897.71",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 13 hours 20 minutes",
+        "airline": "SAS",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:35pm",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "7:15am"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "11:55am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "12:55pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "897.71",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 16 hours 0 minutes",
+        "airline": "SAS",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:35pm",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "7:15am"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "2:45pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "897.71",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 10 hours 5 minutes",
+        "airline": "SAS",
+        "plane": "Airbus A340",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "11:30pm",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "1:10pm"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "2:45pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "343"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "897.71",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 9 hours 30 minutes",
+        "airline": "SAS",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:35pm",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "7:15am"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "9:05am"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "897.71",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 13 hours 20 minutes",
+        "airline": "SAS",
+        "plane": "Airbus A340",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "11:30pm",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "1:10pm"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "6:00pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "6:50pm"
+            }
+        ],
+        "plane code": "343"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "901.91",
+        "departure": ", Newark",
+        "arrival": ", Hamburg",
+        "flight duration": "1 days 14 hours 40 minutes",
+        "airline": "SAS",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "6:55pm",
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "arrival_time": "8:20am"
+            },
+            {
+                "departure_airport": "Oslo, Norway (OSL-Gardermoen)",
+                "departure_time": "9:15am",
+                "arrival_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "arrival_time": "10:25am"
+            },
+            {
+                "departure_airport": "Copenhagen, Denmark (CPH-Kastrup)",
+                "departure_time": "2:45pm",
+                "arrival_airport": "Hamburg, Germany (HAM)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "333"
+    }
+]

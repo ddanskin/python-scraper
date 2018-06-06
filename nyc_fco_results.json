@@ -1,0 +1,578 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.00",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "2 days 29 hours 25 minutes",
+        "airline": "Air Europa",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "arrival_time": "11:30am"
+            },
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "7:05am",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "9:30am"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.00",
+        "departure": ", Rome",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 40 minutes",
+        "airline": "Air Europa",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "departure_time": "6:25pm",
+                "arrival_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "arrival_time": "9:05pm"
+            },
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "6:05pm"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1091.28",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 8 hours 15 minutes",
+        "airline": "Finnair",
+        "plane": "772 - BOEING 777/200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "7:15am"
+            }
+        ],
+        "plane code": "772"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1166.82",
+        "departure": ", Rome",
+        "arrival": ", New York",
+        "flight duration": "0 days 17 hours 5 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "departure_time": "7:10am",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "11:50am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "3:05pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "6:15pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1166.82",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 13 hours 20 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:05pm",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "11:55am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "12:55pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "2:25pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1222.14",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "2 days 32 hours 15 minutes",
+        "airline": "Air France",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "8:10am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "6:55am",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "9:00am"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1250.36",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 17 hours 0 minutes",
+        "airline": "Aer Lingus",
+        "plane": "Airbus A330",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:50pm",
+                "arrival_airport": "Dublin, Ireland (DUB)",
+                "arrival_time": "8:40am"
+            },
+            {
+                "departure_airport": "Dublin, Ireland (DUB)",
+                "departure_time": "3:40pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "7:50pm"
+            }
+        ],
+        "plane code": "330"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1250.36",
+        "departure": ", Rome",
+        "arrival": ", New York",
+        "flight duration": "1 days 23 hours 40 minutes",
+        "airline": "Aer Lingus",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Dublin, Ireland (DUB)",
+                "arrival_time": "10:15pm"
+            },
+            {
+                "departure_airport": "Dublin, Ireland (DUB)",
+                "departure_time": "10:50am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "1:40pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1356.26",
+        "departure": ", Rome",
+        "arrival": ", Newark",
+        "flight duration": "0 days 9 hours 35 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "departure_time": "5:25pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "9:00pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1356.26",
+        "departure": ", Newark",
+        "arrival": ", Rome",
+        "flight duration": "1 days 23 hours 50 minutes",
+        "airline": "TAP Portugal",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "arrival_time": "5:35am"
+            },
+            {
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "departure_time": "7:45pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "11:35pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1392.39",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 17 hours 50 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:30pm",
+                "arrival_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "arrival_time": "1:10pm"
+            },
+            {
+                "departure_airport": "Stockholm, Sweden (ARN-Arlanda)",
+                "departure_time": "8:10pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "11:20pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1399.86",
+        "departure": ", Newark",
+        "arrival": ", Rome",
+        "flight duration": "1 days 8 hours 10 minutes",
+        "airline": "Norwegian Air Shuttle",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "11:30pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "1:40pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1406.76",
+        "departure": ", Newark",
+        "arrival": ", Rome",
+        "flight duration": "1 days 13 hours 5 minutes",
+        "airline": "TAP Portugal",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "arrival_time": "5:35am"
+            },
+            {
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "departure_time": "8:55am",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "12:50pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1406.76",
+        "departure": ", Newark",
+        "arrival": ", Rome",
+        "flight duration": "1 days 19 hours 40 minutes",
+        "airline": "TAP Portugal",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "arrival_time": "5:35am"
+            },
+            {
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)",
+                "departure_time": "3:35pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "7:25pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1407.72",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 8 hours 25 minutes",
+        "airline": "Alitalia",
+        "plane": "772 - BOEING 777/200",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:40pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "12:05pm"
+            }
+        ],
+        "plane code": "772"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1407.72",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 8 hours 35 minutes",
+        "airline": "Alitalia",
+        "plane": "Airbus A330",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "8:20am"
+            }
+        ],
+        "plane code": "330"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1407.72",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 8 hours 25 minutes",
+        "airline": "Alitalia",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:25pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "6:50am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1412.88",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 8 hours 25 minutes",
+        "airline": "Delta",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:25pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "6:50am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1438.88",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 8 hours 25 minutes",
+        "airline": "Air France",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:25pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "6:50am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "867.20",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 13 hours 10 minutes",
+        "airline": "American Airlines",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "2:35pm",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "4:41pm"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "6:25pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "9:45am"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "867.20",
+        "departure": ", Rome",
+        "arrival": ", New York",
+        "flight duration": "0 days 12 hours 35 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "departure_time": "11:55am",
+                "arrival_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "arrival_time": "2:30pm"
+            },
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "4:10pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "32A"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "909.02",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 12 hours 5 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A350-900",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:15pm",
+                "arrival_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "arrival_time": "6:30am"
+            },
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "8:50am",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "11:20am"
+            }
+        ],
+        "plane code": "359"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "920.22",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 10 hours 45 minutes",
+        "airline": "British Airways",
+        "plane": "Boeing 747-400",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "9:35am"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "10:45am",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "2:15pm"
+            }
+        ],
+        "plane code": "744"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "927.24",
+        "departure": ", Rome",
+        "arrival": ", New York",
+        "flight duration": "0 days 13 hours 20 minutes",
+        "airline": "Alitalia",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "departure_time": "9:05am",
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)",
+                "arrival_time": "10:20am"
+            },
+            {
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "4:25pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "927.24",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 10 hours 20 minutes",
+        "airline": "Delta",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:05pm",
+                "arrival_airport": "Nice, France (NCE-Cote d'Azur)",
+                "arrival_time": "10:20am"
+            },
+            {
+                "departure_airport": "Nice, France (NCE-Cote d'Azur)",
+                "departure_time": "11:15am",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "12:25pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "954.90",
+        "departure": ", New York",
+        "arrival": ", Rome",
+        "flight duration": "1 days 13 hours 45 minutes",
+        "airline": "Alitalia",
+        "plane": "Airbus A330",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:30pm",
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)",
+                "arrival_time": "10:40am"
+            },
+            {
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)",
+                "departure_time": "3:00pm",
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "arrival_time": "4:15pm"
+            }
+        ],
+        "plane code": "330"
+    }
+]

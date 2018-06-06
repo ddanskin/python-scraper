@@ -1,0 +1,614 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1067.78",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "2 days 33 hours 45 minutes",
+        "airline": "Hainan Airlines",
+        "plane": "Boeing 787",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:50am",
+                "arrival_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "departure_time": "11:10pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "12:35am"
+            }
+        ],
+        "plane code": "787"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1067.78",
+        "departure": ", Changsha",
+        "arrival": ", Newark",
+        "flight duration": "1 days 20 hours 21 minutes",
+        "airline": "",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "departure_time": "10:15pm",
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+                "arrival_time": "8:00pm"
+            },
+            {
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "6:36am"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1176.78",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 26 hours 45 minutes",
+        "airline": "",
+        "plane": "Boeing 787",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:50am",
+                "arrival_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "5:35pm"
+            }
+        ],
+        "plane code": "787"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1268.03",
+        "departure": ", Changsha",
+        "arrival": ", New York",
+        "flight duration": "0 days 25 hours 0 minutes",
+        "airline": "Air China",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "departure_time": "10:55am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "1:10pm"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "10:35pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "11:55pm"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1268.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 31 hours 30 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "4:10am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "10:00pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1268.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 25 hours 5 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "4:10am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1291.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 19 hours 45 minutes",
+        "airline": "China Southern Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:45am",
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "9:30am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1291.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 33 hours 5 minutes",
+        "airline": "China Southern Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:45am",
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "10:50pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1291.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 32 hours 0 minutes",
+        "airline": "China Southern Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:45am",
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "9:45pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1291.03",
+        "departure": ", Changsha",
+        "arrival": ", New York",
+        "flight duration": "1 days 21 hours 5 minutes",
+        "airline": "China Southern Airlines",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "arrival_time": "9:30pm"
+            },
+            {
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "departure_time": "1:30am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "5:05am"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1291.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 21 hours 55 minutes",
+        "airline": "China Southern Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:45am",
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "departure_time": "10:20am",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "11:40am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1340.22",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 31 hours 55 minutes",
+        "airline": "",
+        "plane": "Boeing 787",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:50am",
+                "arrival_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "departure_time": "9:25pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "10:45pm"
+            }
+        ],
+        "plane code": "787"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1391.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 23 hours 35 minutes",
+        "airline": "China Southern Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:15am",
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "arrival_time": "3:20pm"
+            },
+            {
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "10:50pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1391.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 22 hours 30 minutes",
+        "airline": "China Southern Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:15am",
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "arrival_time": "3:20pm"
+            },
+            {
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "9:45pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1433.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 29 hours 30 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "4:10am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "5:20pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "8:00pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1433.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 19 hours 15 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "4:10am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "7:05am",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "9:45am"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1467.78",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 31 hours 5 minutes",
+        "airline": "",
+        "plane": "Boeing 787",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:50am",
+                "arrival_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Chongqing, China (CKG-Jiangbei Intl.)",
+                "departure_time": "8:35pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "9:55pm"
+            }
+        ],
+        "plane code": "787"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1473.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 21 hours 55 minutes",
+        "airline": "China Eastern Airlines",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:45am",
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "arrival_time": "4:40am"
+            },
+            {
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "11:40am"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1473.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 19 hours 15 minutes",
+        "airline": "China Eastern Airlines",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:25pm",
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "arrival_time": "7:25pm"
+            },
+            {
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "11:40pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1473.03",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 33 hours 55 minutes",
+        "airline": "China Eastern Airlines",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:45am",
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "arrival_time": "4:40am"
+            },
+            {
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "11:40pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1473.03",
+        "departure": ", Changsha",
+        "arrival": ", New York",
+        "flight duration": "0 days 18 hours 35 minutes",
+        "airline": "China Eastern Airlines",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "departure_time": "7:50am",
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "arrival_time": "9:55am"
+            },
+            {
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "departure_time": "11:30am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "2:25pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1552.53",
+        "departure": ", Changsha",
+        "arrival": ", New York",
+        "flight duration": "1 days 31 hours 40 minutes",
+        "airline": "Cathay Pacific",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "departure_time": "11:20am",
+                "arrival_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "arrival_time": "1:10pm"
+            },
+            {
+                "departure_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "departure_time": "12:30am",
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)",
+                "arrival_time": "9:20pm"
+            },
+            {
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)",
+                "departure_time": "10:55pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "7:00am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1552.53",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "2 days 24 hours 30 minutes",
+        "airline": "Cathay Pacific",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:50pm",
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)",
+                "arrival_time": "12:50am"
+            },
+            {
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)",
+                "departure_time": "2:20am",
+                "arrival_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "arrival_time": "6:45am"
+            },
+            {
+                "departure_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "departure_time": "8:45am",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "10:20am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1567.83",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "2 days 31 hours 30 minutes",
+        "airline": "Cathay Pacific",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:50pm",
+                "arrival_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "arrival_time": "6:50pm"
+            },
+            {
+                "departure_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "departure_time": "8:45am",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "10:20am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1567.83",
+        "departure": ", New York",
+        "arrival": ", Changsha",
+        "flight duration": "1 days 20 hours 20 minutes",
+        "airline": "Cathay Pacific",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:00am",
+                "arrival_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "arrival_time": "2:00pm"
+            },
+            {
+                "departure_airport": "Hong Kong, Hong Kong SAR (HKG-Hong Kong Intl.)",
+                "departure_time": "4:45pm",
+                "arrival_airport": "Changsha, China (CSX-Huanghua Intl.)",
+                "arrival_time": "6:20pm"
+            }
+        ],
+        "plane code": "77W"
+    }
+]

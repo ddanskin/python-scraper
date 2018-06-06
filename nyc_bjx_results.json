@@ -1,0 +1,602 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1004.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 7 hours 47 minutes",
+        "airline": "Aeromexico",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "3:31pm"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "6:47pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1004.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 9 hours 17 minutes",
+        "airline": "Aeromexico",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:30am",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "2:01pm"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "6:47pm"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1004.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 47 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "2:31pm"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "6:47pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1004.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 47 minutes",
+        "airline": "Aeromexico",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "2:31pm"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "6:47pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1004.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 7 hours 47 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "3:31pm"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "6:47pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 7 hours 56 minutes",
+        "airline": "American Airlines",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "2:29pm",
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)",
+                "arrival_time": "5:27pm"
+            },
+            {
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)",
+                "departure_time": "6:46pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "8:25pm"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", Newark",
+        "arrival": ", Leon",
+        "flight duration": "0 days 6 hours 56 minutes",
+        "airline": "United",
+        "plane": "Boeing 757-200",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "11:39am"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "12:35pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "1:56pm"
+            }
+        ],
+        "plane code": "752"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 7 hours 30 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:55pm",
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)",
+                "arrival_time": "5:55pm"
+            },
+            {
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)",
+                "departure_time": "6:46pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "8:25pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", Newark",
+        "arrival": ", Leon",
+        "flight duration": "0 days 9 hours 1 minutes",
+        "airline": "United",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "3:50pm",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "6:34pm"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "10:51pm"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", Leon",
+        "arrival": ", New York",
+        "flight duration": "0 days 7 hours 30 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)",
+                "arrival_time": "8:58am"
+            },
+            {
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)",
+                "departure_time": "10:30am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "3:00pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", Newark",
+        "arrival": ", Leon",
+        "flight duration": "0 days 7 hours 6 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "2:20pm",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "5:24pm"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "6:05pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "7:26pm"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 7 hours 26 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-700",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "2:00pm",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "5:20pm"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "6:05pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "7:26pm"
+            }
+        ],
+        "plane code": "73G"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 1 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-700",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:55am",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "11:15am"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "12:35pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "1:56pm"
+            }
+        ],
+        "plane code": "73G"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 7 hours 51 minutes",
+        "airline": "United",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "8:20pm"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "10:51pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", Newark",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 11 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "7:45am",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "10:53am"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "12:35pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "1:56pm"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1024.84",
+        "departure": ", Leon",
+        "arrival": ", Newark",
+        "flight duration": "0 days 7 hours 17 minutes",
+        "airline": "United",
+        "plane": "Embraer 175 (Enhanced Winglets)",
+        "timings": [
+            {
+                "departure_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "departure_time": "3:40pm",
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "arrival_time": "5:49pm"
+            },
+            {
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)",
+                "departure_time": "7:40pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "11:57pm"
+            }
+        ],
+        "plane code": "E7W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "821.64",
+        "departure": ", Leon",
+        "arrival": ", New York",
+        "flight duration": "1 days 17 hours 35 minutes",
+        "airline": "Interjet",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "departure_time": "8:55pm",
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "arrival_time": "10:00pm"
+            },
+            {
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "departure_time": "9:45am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "3:30pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "821.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 15 hours 10 minutes",
+        "airline": "Interjet",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:10am",
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "arrival_time": "10:45am"
+            },
+            {
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "8:20pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "995.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 43 minutes",
+        "airline": "Aeromexico",
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:00am",
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "arrival_time": "12:00pm"
+            },
+            {
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "2:43pm"
+            }
+        ],
+        "plane code": "7S8"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "995.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 43 minutes",
+        "airline": "Delta",
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:00am",
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "arrival_time": "12:00pm"
+            },
+            {
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "2:43pm"
+            }
+        ],
+        "plane code": "7S8"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "995.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 10 minutes",
+        "airline": "Aeromexico",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "arrival_time": "7:10pm"
+            },
+            {
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "departure_time": "9:05pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "10:10pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "995.64",
+        "departure": ", Leon",
+        "arrival": ", New York",
+        "flight duration": "0 days 7 hours 10 minutes",
+        "airline": "Delta",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "departure_time": "6:05am",
+                "arrival_airport": "Monterrey, Nuevo Leon, Mexico (MTY-General Mariano Escobedo Intl.)",
+                "arrival_time": "7:19am"
+            },
+            {
+                "departure_airport": "Monterrey, Nuevo Leon, Mexico (MTY-General Mariano Escobedo Intl.)",
+                "departure_time": "8:52am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "2:15pm"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "995.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 13 hours 33 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 757",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:40am",
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "arrival_time": "1:25pm"
+            },
+            {
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "departure_time": "8:05pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "9:13pm"
+            }
+        ],
+        "plane code": "757"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "995.64",
+        "departure": ", Leon",
+        "arrival": ", New York",
+        "flight duration": "0 days 7 hours 10 minutes",
+        "airline": "Aeromexico",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "departure_time": "6:05am",
+                "arrival_airport": "Monterrey, Nuevo Leon, Mexico (MTY-General Mariano Escobedo Intl.)",
+                "arrival_time": "7:19am"
+            },
+            {
+                "departure_airport": "Monterrey, Nuevo Leon, Mexico (MTY-General Mariano Escobedo Intl.)",
+                "departure_time": "8:52am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "2:15pm"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "995.64",
+        "departure": ", New York",
+        "arrival": ", Leon",
+        "flight duration": "0 days 8 hours 10 minutes",
+        "airline": "Delta",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "arrival_time": "7:10pm"
+            },
+            {
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)",
+                "departure_time": "9:05pm",
+                "arrival_airport": "Leon, Guanajuato, Mexico (BJX-Del Bajio)",
+                "arrival_time": "10:10pm"
+            }
+        ],
+        "plane code": "789"
+    }
+]

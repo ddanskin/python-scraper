@@ -1,0 +1,734 @@
+[
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 18 hours 10 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:45am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:20am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:55pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", Newark",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 16 hours 5 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:50am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "12:22pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:55pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "0 days 15 hours 2 minutes",
+        "airline": "Air Canada",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "6:40pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "4:40pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "6:15pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "7:42pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 19 hours 25 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:05am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:55pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", Newark",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 18 hours 20 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:07am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:55pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", Tokyo",
+        "arrival": ", Newark",
+        "flight duration": "0 days 15 hours 20 minutes",
+        "airline": "Air Canada",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "6:40pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "4:40pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "6:30pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "8:00pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 20 hours 25 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "8:05am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:55pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1087.41",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 16 hours 35 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:20am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "11:55am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "1:35pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:55pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1213.71",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "0 days 27 hours 20 minutes",
+        "airline": "China Eastern Airlines",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "8:40am",
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "arrival_time": "10:30am"
+            },
+            {
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "departure_time": "7:30pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "10:00pm"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1213.71",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 30 hours 5 minutes",
+        "airline": "China Eastern Airlines",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:45am",
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "arrival_time": "4:55am"
+            },
+            {
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "departure_time": "5:05pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "8:50pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1213.71",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 26 hours 5 minutes",
+        "airline": "China Eastern Airlines",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:45am",
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "arrival_time": "4:55am"
+            },
+            {
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)",
+                "departure_time": "1:05pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:50pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1243.11",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "2 days 35 hours 25 minutes",
+        "airline": "Singapore Airlines",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:15pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "9:50am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "11:40am",
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)",
+                "arrival_time": "6:50am"
+            },
+            {
+                "departure_airport": "Singapore, Singapore (SIN-Changi)",
+                "departure_time": "2:05pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "9:40pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1243.11",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "1 days 40 hours 25 minutes",
+        "airline": "Singapore Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "8:50am",
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)",
+                "arrival_time": "3:25pm"
+            },
+            {
+                "departure_airport": "Singapore, Singapore (SIN-Changi)",
+                "departure_time": "11:55pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:20am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "8:20am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "11:15am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1243.11",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "2 days 29 hours 20 minutes",
+        "airline": "Singapore Airlines",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:15pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "9:50am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "11:40am",
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)",
+                "arrival_time": "6:50am"
+            },
+            {
+                "departure_airport": "Singapore, Singapore (SIN-Changi)",
+                "departure_time": "8:05am",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1286.51",
+        "departure": ", Tokyo",
+        "arrival": ", Newark",
+        "flight duration": "0 days 35 hours 0 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "12:30am",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "7:20am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "11:50am",
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)",
+                "arrival_time": "3:25pm"
+            },
+            {
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)",
+                "departure_time": "5:25pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "9:30pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1286.51",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "2 days 34 hours 25 minutes",
+        "airline": "Emirates",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:20pm",
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)",
+                "arrival_time": "11:55am"
+            },
+            {
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)",
+                "departure_time": "1:40pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "10:45pm"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "10:45pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1286.51",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "0 days 27 hours 25 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "12:30am",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "7:20am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "8:30am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "1:55pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1286.51",
+        "departure": ", Newark",
+        "arrival": ", Tokyo",
+        "flight duration": "2 days 32 hours 50 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "11:55pm",
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)",
+                "arrival_time": "4:10pm"
+            },
+            {
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)",
+                "departure_time": "5:55pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "12:20am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "10:45pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1287.91",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "2 days 33 hours 45 minutes",
+        "airline": "Emirates",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:00pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "8:25pm"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "10:45pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1308.81",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "0 days 12 hours 40 minutes",
+        "airline": "United",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "10:20am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "9:00am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1308.81",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 14 hours 15 minutes",
+        "airline": "United",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "9:10pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1310.81",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 14 hours 15 minutes",
+        "airline": "All Nippon Airways",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "9:10pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "1310.81",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "0 days 12 hours 40 minutes",
+        "airline": "All Nippon Airways",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "10:20am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "9:00am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "756.71",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 20 hours 20 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "5:20am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "12:50pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "756.71",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 27 hours 35 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "5:20am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "3:50pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "8:05pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "756.71",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 29 hours 0 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "5:20am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "5:20pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "9:30pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "756.71",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "0 days 20 hours 20 minutes",
+        "airline": "Air China",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "7:10am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "9:55am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "1:30pm"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "756.71",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 23 hours 40 minutes",
+        "airline": "Air China",
+        "plane": "BOEING 777-300 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "2:30am",
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)",
+                "arrival_time": "5:20am"
+            },
+            {
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)",
+                "departure_time": "11:55am",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "4:10pm"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "985.01",
+        "departure": ", Tokyo",
+        "arrival": ", New York",
+        "flight duration": "0 days 18 hours 50 minutes",
+        "airline": "Asiana Airlines",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Tokyo, Japan (HND-Haneda)",
+                "departure_time": "6:10am",
+                "arrival_airport": "Seoul, South Korea (ICN-Incheon Intl.)",
+                "arrival_time": "8:45am"
+            },
+            {
+                "departure_airport": "Seoul, South Korea (ICN-Incheon Intl.)",
+                "departure_time": "11:00am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "11:00am"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "985.01",
+        "departure": ", New York",
+        "arrival": ", Tokyo",
+        "flight duration": "1 days 20 hours 0 minutes",
+        "airline": "Asiana Airlines",
+        "plane": "AIRBUS INDUSTRIE A350-900",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Seoul, South Korea (ICN-Incheon Intl.)",
+                "arrival_time": "5:30pm"
+            },
+            {
+                "departure_airport": "Seoul, South Korea (ICN-Incheon Intl.)",
+                "departure_time": "8:50pm",
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)",
+                "arrival_time": "11:00pm"
+            }
+        ],
+        "plane code": "359"
+    }
+]

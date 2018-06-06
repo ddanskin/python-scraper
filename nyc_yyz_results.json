@@ -1,0 +1,398 @@
+[
+    {
+        "stops": "Non-stop",
+        "ticket price": "221.80",
+        "departure": ", Toronto",
+        "arrival": ", New York",
+        "flight duration": "0 days 1 hours 31 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-600 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:14pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "5:45pm"
+            }
+        ],
+        "plane code": "736"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "221.80",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 37 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:07am"
+            }
+        ],
+        "plane code": "73W"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "221.80",
+        "departure": ", Toronto",
+        "arrival": ", New York",
+        "flight duration": "0 days 1 hours 31 minutes",
+        "airline": "WestJet",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:25pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "9:56pm"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "236.99",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 33 minutes",
+        "airline": "United",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "8:03am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "236.99",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 33 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "8:03am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "236.99",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 35 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:25am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:00am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "248.93",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 35 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:40am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:15am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "265.20",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 33 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "12:15pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "1:48pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "265.20",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 33 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "11:48am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "265.20",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 40 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "4:50pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "6:30pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "265.20",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 40 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:50pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "5:30pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "265.20",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 35 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "2:40pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "4:15pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "269.54",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 37 minutes",
+        "airline": "Delta",
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:07am"
+            }
+        ],
+        "plane code": "73W"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "274.97",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 33 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "7:18pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "280.39",
+        "departure": ", Newark",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 33 minutes",
+        "airline": "United",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:08am"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "280.39",
+        "departure": ", Newark",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 35 minutes",
+        "airline": "United",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "6:25am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "8:00am"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "281.48",
+        "departure": ", Newark",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 33 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:08am"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "295.58",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 39 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:55am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:34am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "295.58",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 52 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer EMB-140",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:05am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "11:57am"
+            }
+        ],
+        "plane code": "ERD"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "308.60",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 37 minutes",
+        "airline": "Delta",
+        "plane": "BOEING 737-600 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "9:40am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "11:17am"
+            }
+        ],
+        "plane code": "736"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "308.60",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 37 minutes",
+        "airline": "Delta",
+        "plane": "BOEING 737-600 PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "11:55am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "1:32pm"
+            }
+        ],
+        "plane code": "736"
+    },
+    {
+        "stops": "Non-stop",
+        "ticket price": "309.69",
+        "departure": ", New York",
+        "arrival": ", Toronto",
+        "flight duration": "0 days 1 hours 35 minutes",
+        "airline": "United",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:40am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:15am"
+            }
+        ],
+        "plane code": "320"
+    }
+]

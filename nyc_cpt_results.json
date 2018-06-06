@@ -1,0 +1,704 @@
+[
+    {
+        "stops": "2 Stops",
+        "ticket price": "1483.98",
+        "departure": ", Cape Town",
+        "arrival": ", New York",
+        "flight duration": "1 days 22 hours 50 minutes",
+        "airline": "Kenya Airways",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "2:35pm",
+                "arrival_airport": "Victoria Falls, Zimbabwe (VFA)",
+                "arrival_time": "5:25pm"
+            },
+            {
+                "departure_airport": "Victoria Falls, Zimbabwe (VFA)",
+                "departure_time": "6:15pm",
+                "arrival_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)",
+                "arrival_time": "10:20pm"
+            },
+            {
+                "departure_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)",
+                "departure_time": "11:25pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "6:25am"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "1483.98",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 42 hours 20 minutes",
+        "airline": "Kenya Airways",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:25pm",
+                "arrival_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)",
+                "arrival_time": "10:55am"
+            },
+            {
+                "departure_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Victoria Falls, Zimbabwe (VFA)",
+                "arrival_time": "9:45am"
+            },
+            {
+                "departure_airport": "Victoria Falls, Zimbabwe (VFA)",
+                "departure_time": "10:35am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "1:45pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1483.98",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 24 hours 55 minutes",
+        "airline": "Kenya Airways",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:25pm",
+                "arrival_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)",
+                "arrival_time": "10:55am"
+            },
+            {
+                "departure_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)",
+                "departure_time": "3:35pm",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "8:20pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1802.06",
+        "departure": ", Cape Town",
+        "arrival": ", Newark",
+        "flight duration": "1 days 23 hours 40 minutes",
+        "airline": "British Airways",
+        "plane": "Boeing 747-400",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "9:20pm",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "7:10am"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "10:50am",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "2:00pm"
+            }
+        ],
+        "plane code": "744"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1802.06",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 20 hours 0 minutes",
+        "airline": "British Airways",
+        "plane": "Boeing 747-400",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:05am",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "7:50pm"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "11:05am"
+            }
+        ],
+        "plane code": "744"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1808.06",
+        "departure": ", Cape Town",
+        "arrival": ", New York",
+        "flight duration": "1 days 23 hours 45 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 747-400",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "4:45am"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "8:25am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "11:30am"
+            }
+        ],
+        "plane code": "744"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1953.52",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 23 hours 5 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 767",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "10:35pm"
+            }
+        ],
+        "plane code": "764"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1953.52",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 21 hours 45 minutes",
+        "airline": "Delta",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:50pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "6:55am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "10:35pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1979.52",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 23 hours 10 minutes",
+        "airline": "KLM",
+        "plane": "Boeing 767",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "4:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "5:55am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "10:40pm"
+            }
+        ],
+        "plane code": "764"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "1979.52",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 21 hours 55 minutes",
+        "airline": "KLM",
+        "plane": "BOEING 787-9",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "6:50am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "10:40pm"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2046.06",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 20 hours 0 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 747-400",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:05am",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "7:50pm"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "11:05am"
+            }
+        ],
+        "plane code": "744"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2065.22",
+        "departure": ", Cape Town",
+        "arrival": ", Newark",
+        "flight duration": "1 days 35 hours 20 minutes",
+        "airline": "Ethiopian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "2:55pm",
+                "arrival_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)",
+                "arrival_time": "10:20pm"
+            },
+            {
+                "departure_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)",
+                "arrival_time": "11:00am"
+            },
+            {
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "7:15pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2065.22",
+        "departure": ", Newark",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 34 hours 40 minutes",
+        "airline": "Ethiopian Airlines",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:15pm",
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)",
+                "arrival_time": "11:35am"
+            },
+            {
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)",
+                "departure_time": "12:35pm",
+                "arrival_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)",
+                "arrival_time": "9:10pm"
+            },
+            {
+                "departure_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)",
+                "departure_time": "8:25am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "1:55pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2078.76",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 20 hours 5 minutes",
+        "airline": "Delta",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "9:10am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "10:35pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2104.76",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 20 hours 10 minutes",
+        "airline": "KLM",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:30pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "9:10am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "10:40pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2173.34",
+        "departure": ", Cape Town",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 40 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "5:55pm",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "8:15am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "11:35am"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2173.34",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 40 hours 20 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "7:05am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "2:25am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "12:35pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2173.34",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 29 hours 45 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:50pm",
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "arrival_time": "5:25pm"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)",
+                "departure_time": "2:25am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "12:35pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2460.52",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 20 hours 0 minutes",
+        "airline": "Iberia",
+        "plane": "Boeing 747-400",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:05am",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "7:50pm"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "11:05am"
+            }
+        ],
+        "plane code": "744"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2513.54",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 24 hours 40 minutes",
+        "airline": "Emirates",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "10:40am",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "8:10am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "10:45am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "6:20pm"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2513.54",
+        "departure": ", Cape Town",
+        "arrival": ", Newark",
+        "flight duration": "1 days 25 hours 35 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "1:25pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "1:10am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "3:00am",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "8:00am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2513.54",
+        "departure": ", Newark",
+        "arrival": ", Cape Town",
+        "flight duration": "1 days 24 hours 30 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:50am",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "8:20am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "10:45am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "6:20pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2514.42",
+        "departure": ", Cape Town",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 5 minutes",
+        "airline": "Qatar Airways",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "12:35pm",
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)",
+                "arrival_time": "11:50pm"
+            },
+            {
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)",
+                "departure_time": "1:40am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "7:40am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2514.42",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 31 hours 0 minutes",
+        "airline": "Qatar Airways",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:05pm",
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)",
+                "arrival_time": "5:35pm"
+            },
+            {
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)",
+                "departure_time": "1:45am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "11:05am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stops",
+        "ticket price": "2593.54",
+        "departure": ", Newark",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 28 hours 50 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "11:55pm",
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)",
+                "arrival_time": "4:10pm"
+            },
+            {
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)",
+                "departure_time": "5:55pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "12:20am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "4:00am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "11:45am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2593.54",
+        "departure": ", New York",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 29 hours 45 minutes",
+        "airline": "Emirates",
+        "plane": "Airbus Industrie A380-800 Passenger",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:00pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "8:25pm"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "4:00am",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "11:45am"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2711.26",
+        "departure": ", Newark",
+        "arrival": ", Cape Town",
+        "flight duration": "2 days 25 hours 40 minutes",
+        "airline": "Swiss International Air Lines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:05pm",
+                "arrival_airport": "Zurich, Switzerland (ZRH)",
+                "arrival_time": "11:40am"
+            },
+            {
+                "departure_airport": "Zurich, Switzerland (ZRH)",
+                "departure_time": "6:20pm",
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "arrival_time": "6:45am"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stops",
+        "ticket price": "2711.26",
+        "departure": ", Cape Town",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 25 minutes",
+        "airline": "Lufthansa",
+        "plane": "Airbus A340",
+        "timings": [
+            {
+                "departure_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)",
+                "departure_time": "6:15pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "5:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "10:45am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "1:40pm"
+            }
+        ],
+        "plane code": "343"
+    }
+]
