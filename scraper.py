@@ -8,8 +8,8 @@ def expedia_lambda_handler(event):
     for i in range(5):
         try:
             page_link = build_expedia_url(event)
-            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' +
-            'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 ' +
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) ' +
+            'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 ' +
             'Safari/537.36'}
             response = requests.get(page_link, headers=headers, verify=False)
             parser = html.fromstring(response.text)
